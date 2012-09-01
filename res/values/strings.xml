@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Disconnection tracker</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_disconnection_tracker">Disconnection tracker</string>
+    <string name="switchService">Tracker</string>
+    <string name="buttonTestNow">Test now</string>
+</resources>
